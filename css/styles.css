@@ -1,5 +1,5 @@
 .navbar{
-margin-bottom: 4rem;
+margin-bottom: 4em;
 font-family: 'Ubuntu', sans-serif;
 }
 h1{
@@ -14,12 +14,12 @@ font-family: 'Cormorant Garamond', serif;
 }
 #canDo {
 font-family: 'Ubuntu', sans-serif;
-font-size: 6rem;
-margin-bottom: 1rem;
+font-size: 6em;
+margin-bottom: 1em;
 text-decoration: none;
-border-bottom: red 1px dashed;
+border-bottom: red 3px dashed;
 }
 .btn {
-  width: 10rem;
+  width: 10em;
   font-family: 'Ubuntu', sans-serif;
 }
